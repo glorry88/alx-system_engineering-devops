@@ -1,3 +1,4 @@
 #!/bin/bash
-cat >> \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
-"Holberton School\n"
+printf "Holberton School\n" > "\*\*\'"Holberton School"\'\*\*$\?\*\*\*\*\*:)"
+
+
